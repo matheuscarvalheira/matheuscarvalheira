@@ -1,6 +1,6 @@
 ### Hello there !
 
-                                    <img  alt="GIF" src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif" />
+<img  alt="GIF" src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif" />
 
 Welcome to my GitHub profile, I am a computer science student looking to improve my knowledge in the area of web development. I am 20 years old and very interested in developing my skills in the use of different technologies and languages. 
 
