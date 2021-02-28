@@ -7,7 +7,7 @@ Welcome to my GitHub profile, I am a computer science student looking to improve
 - 💻 I’m currently working on "Moveit"
 - 🌱 I’m currently learning about ReactJS
 - 👔 I’m looking to collaborate with Typescript/React
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([(25) Matheus Carvalheira | LinkedIn](https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/)) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](matheuscarvalheiraf@gmail.com)
+- 📫 How to reach me: matheuscarvalheiraf@gmail.com
 
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 
@@ -17,8 +17,9 @@ Welcome to my GitHub profile, I am a computer science student looking to improve
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
