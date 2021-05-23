@@ -24,6 +24,6 @@ Welcome to my GitHub profile, I am a computer science student looking to improve
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&hide_border=true" />
 
 
