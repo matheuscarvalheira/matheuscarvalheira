@@ -1,29 +1,42 @@
-### Hello there 👋🏻 !
+### Hello there ^^ !
 
-<img  alt="GIF" src="https://media3.giphy.com/media/Nx0rz3jtxtEre/200.gif" />
 
-Welcome to my GitHub profile, I am a computer science student looking to improve my knowledge in the area of web development. I am 20 years old and very interested in developing my skills in the use of different technologies and languages. 
+<img  alt="GIF" src="https://media1.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e47dso1o8t4s3d9kwkne49kdhwr6bemm43jh2r8f3k7&rid=giphy.gif&ct=g" />
 
-- 💻 I’m currently working on "Moveit"
-- 🌱 I’m currently learning about ReactJS
+
+Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
+
+- 💻 I’m currently working on "Letmeask"
+- 🌱 I’m currently learning about Spring Boot
 - 👔 I’m looking to collaborate with Typescript/React
 - 📫 How to reach me: matheuscarvalheiraf@gmail.com
 
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 
-#####  📜 My skills and some of the technologies I have worked with:
+####  📜 My skills and some of the technologies I have worked with:
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+</div>
 
- <img src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&hide_border=true" />
+<br/>
+<div align="center">
+  <a href="https://github.com/matheuscarvalheira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-
+##
+<div>
+ <a href="https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheuscarvalheiraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
