@@ -1,7 +1,7 @@
 ### Hello there ^^ !
 
 
-<img  alt="GIF" src="https://media1.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e47dso1o8t4s3d9kwkne49kdhwr6bemm43jh2r8f3k7&rid=giphy.gif&ct=g" />
+<img width="450" alt="GIF" src="https://c.tenor.com/4ah6Fqjouq0AAAAd/laika-coraline.gif" />
 
 
 Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 <br/>
 <div align="center">
   <a href="https://github.com/matheuscarvalheira">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ##
