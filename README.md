@@ -1,7 +1,7 @@
 ### Hello there ^^ !
 
 
-<img width="420" alt="GIF" src="https://c.tenor.com/4ah6Fqjouq0AAAAd/laika-coraline.gif" />
+<img width="400" alt="GIF" src="https://c.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
 
 
 Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 <br/>
 <div align="center">
   <a href="https://github.com/matheuscarvalheira">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=merko"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
