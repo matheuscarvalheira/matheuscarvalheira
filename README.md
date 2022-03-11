@@ -1,7 +1,7 @@
 ### Hello there ^^ !
 
 
-<img width="300" height="300" alt="GIF" src="https://c.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
+<img width="500"  alt="GIF" src="https://media3.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e47le5yswz315wcqb41fuder5krzhn67atvj3kenjb2&rid=giphy.gif&ct=g" />
 
 
 Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
