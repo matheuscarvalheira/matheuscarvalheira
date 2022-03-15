@@ -1,7 +1,7 @@
 ### Hello there ^^ !
 
 
-<img width="500"  alt="GIF" src="https://media3.giphy.com/media/kz6cm1kKle2MYkHtJF/giphy.gif?cid=ecf05e47le5yswz315wcqb41fuder5krzhn67atvj3kenjb2&rid=giphy.gif&ct=g" />
+<img width="400" height="400"  alt="GIF" src="https://media2.giphy.com/media/l0MYRN89l6PG7TOoM/giphy.gif?cid=ecf05e47ldli61b0uq59cj6q600dgm8kq9rfi1630l0i9xcl&rid=giphy.gif&ct=g" />
 
 
 Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 <br/>
 <div align="center">
   <a href="https://github.com/matheuscarvalheira">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
