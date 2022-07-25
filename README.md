@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 21 years old and very interested in developing my skills in the use of different technologies and languages. 
 
-- 💻 I’m currently working on "Letmeask"
+- 💻 I’m currently working on "Aluroni"
 - 🌱 I’m currently learning about Spring Boot
 - 👔 I’m looking to collaborate with Typescript/React
 - 📫 How to reach me: matheuscarvalheiraf@gmail.com
