@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 <div align="center">
   <a href="https://github.com/matheuscarvalheira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&rank_icon=github&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=donut&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 ##
