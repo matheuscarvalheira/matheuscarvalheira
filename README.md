@@ -4,7 +4,7 @@
 <img width="400" alt="GIF" src="https://media.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
 
 
-Thank you for visiting my GitHub profile! I'm a 22-year-old computer science student who is passionate about improving my skills in web development by mastering a variety of technologies and programming languages.
+Thank you for stopping by my GitHub profile! I'm a 22-year-old computer science student with a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
 
 - 💻 I’m currently working on "Aluroni"
 - 🌱 I’m currently learning about Spring Boot
