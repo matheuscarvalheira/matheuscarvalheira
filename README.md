@@ -42,5 +42,6 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
   <a href = "mailto:matheuscarvalheiraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-  
+
 ![Snake animation](https://github.com/matheuscarvalheira/matheuscarvalheira/blob/output/github-contribution-grid-snake.svg)
+
