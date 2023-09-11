@@ -44,5 +44,9 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 </div>
 
 
-![Snake animation](https://github.com/matheuscarvalheira/matheuscarvalheira/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+  ![Snake animation](https://github.com/matheuscarvalheira/matheuscarvalheira/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
