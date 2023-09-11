@@ -4,14 +4,14 @@
 <img width="400" alt="GIF" src="https://media.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
 
 
-Welcome to my GitHub profile! I'm a 22-year-old computer science student with a strong desire to enhance my expertise in web development by gaining proficiency in various technologies and programming languages.
+Thank you for visiting my GitHub profile! I'm a 22-year-old computer science student who is passionate about improving my skills in web development by mastering a variety of technologies and programming languages.
 
 - 💻 I’m currently working on "Aluroni"
 - 🌱 I’m currently learning about Spring Boot
 - 👔 I’m looking to collaborate with Typescript/React
 - 📫 How to reach me: matheuscarvalheiraf@gmail.com
 
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
+- :speech_balloon: Feel free to inquire about accessibility, cybersecurity, full-stack development, web development, or any topic you'd like!
 
 ####  📜 My skill set and a selection of the technologies I've engaged with:
 
