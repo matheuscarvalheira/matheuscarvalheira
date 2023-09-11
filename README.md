@@ -4,7 +4,7 @@
 <img width="400" alt="GIF" src="https://media.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
 
 
-Welcome to my GitHub profile! I am a computer science student looking to improve my knowledge in the area of web development. I am 22 years old and very interested in developing my skills in the use of different technologies and languages. 
+Welcome to my GitHub profile! I'm a 22-year-old computer science student with a strong desire to enhance my expertise in web development by gaining proficiency in various technologies and programming languages.
 
 - 💻 I’m currently working on "Aluroni"
 - 🌱 I’m currently learning about Spring Boot
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
 
 - :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
 
-####  📜 My skills and some of the technologies I have worked with:
+####  📜 My skill set and a selection of the technologies I've engaged with:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,8 +41,3 @@ Welcome to my GitHub profile! I am a computer science student looking to improve
   <a href = "mailto:matheuscarvalheiraf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-carvalheira-92b0551aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
-  
-
