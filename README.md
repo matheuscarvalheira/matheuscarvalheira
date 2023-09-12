@@ -1,7 +1,7 @@
 ### Hello there !
 
 
-<img width="400" alt="GIF" src="https://media.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
+<img width="400" height="400" alt="GIF" src="https://media.tenor.com/z4Pjus3zEcsAAAAd/dad-coraline.gif" />
 
 
 Thank you for stopping by my GitHub profile! I'm a 22-year-old computer science student with a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
