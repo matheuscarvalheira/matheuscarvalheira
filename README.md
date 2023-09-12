@@ -30,7 +30,7 @@ Thank you for stopping by my GitHub profile! I'm a 22-year-old computer science 
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&show_icons=true&theme=codeSTACKr&rank_icon=github&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira\&rank_icon=github&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira\&layout=compact&theme=codeSTACKr)
 
 ##
