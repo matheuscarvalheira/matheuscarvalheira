@@ -1,6 +1,6 @@
 # Hello there !
 
-Thank you for stopping by my GitHub profile! I am a 22-year-old with a Bachelor's degree in Computer Science and a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
+Thank you for stopping by my GitHub profile! I am a 23-year-old with a Bachelor's degree in Computer Science and a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
 
 - 💻 I’m currently working on "Aluroni"
 - 🌱 I’m currently learning about Spring Boot
