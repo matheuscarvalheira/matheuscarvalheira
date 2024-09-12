@@ -1,10 +1,10 @@
-# Hello there !
+# Hi There! 👋
 
 Thank you for stopping by my GitHub profile! I am a 23-year-old with a Bachelor's degree in Computer Science and a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
 
-- 💻 I’m currently working on "Aluroni"
-- 🌱 I’m currently learning about Spring Boot
-- 👔 I’m looking to collaborate with Typescript/React
+- 💻 I’m currently working on "DynaPost"
+- 🧑‍💻 I’m currently learning about Next.js
+- 👔 I’m looking to collaborate with Typescript/React.js
 - 📬 How to reach me: matheuscarvalheiraf@gmail.com
 - 💡Feel free to inquire about accessibility, cybersecurity, full-stack development, web development, or any topic you'd like!
 
@@ -21,9 +21,9 @@ Thank you for stopping by my GitHub profile! I am a 23-year-old with a Bachelor'
 
 
 # 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/) 
