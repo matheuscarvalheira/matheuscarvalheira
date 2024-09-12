@@ -4,9 +4,9 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 
 - 💻 I’m currently working on "DynaPost"
 - 🧑‍💻 I’m currently learning about Next.js
-- 👔 I’m looking to collaborate with Typescript/React.js
+- 👔 I’m looking to collaborate with TypeScript/React.js
 - 📬 How to reach me: matheuscarvalheiraf@gmail.com
-- 💡Feel free to inquire about accessibility, cybersecurity, full-stack development, web development, or any topic you'd like!
+- 🏆 Do not hesitate to contact me with any questions related to accessibility, cybersecurity, full-stack development, web development, or any other subject of interest.
 
 ###  ⚔️ My skill set and a selection of the technologies I've engaged with:
 
@@ -20,10 +20,10 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 
-# 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=moltack&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=moltack&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=moltack&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/) 
