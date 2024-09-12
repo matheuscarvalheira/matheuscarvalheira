@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-Thank you for stopping by my GitHub profile! I am a 23-year-old with a Bachelor's degree in Computer Science and a strong enthusiasm for continuously enhancing my skills in web development through the pursuit of proficiency in various technologies and programming languages.
+Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer Science and, at 23 years of age, am deeply committed to continuously advancing my expertise in web development through mastering a wide range of technologies and programming languages.
 
 - 💻 I’m currently working on "DynaPost"
 - 🧑‍💻 I’m currently learning about Next.js
@@ -21,9 +21,9 @@ Thank you for stopping by my GitHub profile! I am a 23-year-old with a Bachelor'
 
 
 # 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=moltack&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=moltack&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=moltack&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/) 
