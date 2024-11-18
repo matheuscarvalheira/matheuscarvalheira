@@ -26,5 +26,5 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-carvalheira-92b0551aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvalheira/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscarvalheiraf@gmail.com)
