@@ -20,7 +20,7 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=radixui&logoColor=white" /> <img src="https://img.shields.io/badge/UX%2FUI-4C4CFF.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-003366.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-306998.svg?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-6A0DAD.svg?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 
