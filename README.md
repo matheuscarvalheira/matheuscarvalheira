@@ -5,7 +5,7 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 - 💻 I’m currently working on "DynaPost"
 - 🧑‍💻 I’m currently learning about Next.js
 - 👔 I’m looking to collaborate with TypeScript/React.js
-- 📬 How to reach me: matheuscarvalheiraf@gmail.com
+- 📬 How to reach me: matheusfreiredev@gmail.com
 - ☎️ Do not hesitate to contact me with any questions related to accessibility, cybersecurity, full-stack development, web development, or any other subject of interest.
 
 ###  ⚔️ My skill set and a selection of the technologies I've engaged with:
@@ -32,4 +32,4 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvalheira/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheuscarvalheiraf@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](matheusfreiredev@gmail.com)
