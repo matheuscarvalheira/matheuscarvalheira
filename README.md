@@ -26,9 +26,9 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 
 
 ## 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=aura&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvalheira/)
