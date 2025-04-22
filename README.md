@@ -32,4 +32,4 @@ Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer
 
 ## 🔎 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvalheira/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](matheusfreiredev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfreiredev@gmail.com)
