@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer Science and, at 24 years of age, am deeply committed to continuously advancing my expertise in web development through mastering a wide range of technologies and programming languages.
+Thank you for visiting my GitHub profile. I hold a Bachelor's degree in Computer Science and, at 25 years of age, am deeply committed to continuously advancing my expertise in web development through mastering a wide range of technologies and programming languages.
 
 - 💻 I’m currently working on "DynaPost"
 - 🧑‍💻 I’m currently learning about Next.js
