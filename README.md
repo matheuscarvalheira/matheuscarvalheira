@@ -26,9 +26,9 @@ I hold a Bachelor's degree in Computer Science and am driven by continuous profe
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/UX%2FUI-4C4CFF.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 
 ## 🚀 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=bear&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=bear&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matheuscarvalheira&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matheuscarvalheira&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarvalheira&theme=aura&hide_border=true&layout=compact)
 
 ## 🔎 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvalheira/)
